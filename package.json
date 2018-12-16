@@ -1,0 +1,19 @@
+{
+  "name": "gitwork",
+  "version": "1.0.0",
+  "description": "praca nad gitem",
+  "main": "index.js",
+  "scripts": {
+    "test": "Zaczynam"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bokamix/gitworkflow.git"
+  },
+  "author": "jede",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bokamix/gitworkflow/issues"
+  },
+  "homepage": "https://github.com/bokamix/gitworkflow#readme"
+}
