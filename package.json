@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/bokamix/gitworkflow/issues"
   },
-  "homepage": "https://github.com/bokamix/gitworkflow#readme"
+  "homepage": "https://github.com/bokamix/gitworkflow#readme",
+  "devDependencies": {
+    "gulp": "^4.0.0",
+    "gulp-sass": "^4.0.2"
+  }
 }
